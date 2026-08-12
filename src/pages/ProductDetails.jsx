@@ -31,10 +31,10 @@ const products=[
 
 
 {
-id:"customized-school-answer-sheets",
+id:"answer-sheet",
 name:"Customized School Answer Sheets",
 category:"Printing Services",
-image:"/images/answer-sheet.jpg",
+image:"/images/answer sheet.png",
 
 description:
 "Custom printed school answer sheets with school logo, barcode, serial numbering and high-quality paper.",
@@ -51,10 +51,10 @@ details:[
 
 
 {
-id:"customized-catalogue-printing",
+id:"catalogue",
 name:"Customized Catalogue Printing",
 category:"Printing Services",
-image:"/images/catalogue.jpg",
+image:"/images/catalogue.png",
 
 description:
 "Premium product catalogues with glossy or matte finish for businesses and brands.",
@@ -74,7 +74,7 @@ details:[
 id:"brochure",
 name:"Brochure Printing",
 category:"Printing Services",
-image:"/images/brochure.jpg",
+image:"/images/brochure.png",
 
 description:
 "Professional brochure printing for marketing and business promotion.",
@@ -91,10 +91,10 @@ details:[
 
 
 {
-id:"tri-fold-brochure",
+id:"tri-folder",
 name:"Tri-Fold Brochure",
 category:"Printing Services",
-image:"/images/trifold.jpg",
+image:"/images/tri-folder.png",
 
 description:
 "Premium tri-fold brochures designed for restaurants, companies and promotional campaigns.",
@@ -111,10 +111,10 @@ details:[
 
 
 {
-id:"customized-price-list",
+id:"price-list",
 name:"Customized Price List",
 category:"Printing Services",
-image:"/images/price-list.jpg",
+image:"/images/pric-list.png",
 
 description:
 "Elegant and easy-to-read customized price lists for restaurants, salons and retail stores.",
@@ -151,7 +151,7 @@ details:[
 
 
 {
-id:"customized-caps",
+    id: "cap-printing",
 name:"Customized Caps",
 category:"Printing Services",
 image:"/images/printing t-shirtcap.jpeg",
@@ -171,10 +171,10 @@ details:[
 
 
 {
-id:"customized-pens",
+id: "pen-printing",
 name:"Customized Pens",
 category:"Printing Services",
-image:"/images/pen.jpg",
+image:"/images/pen2.jpeg",
 
 description:
 "Corporate branded pens with custom logo printing for giveaways and marketing.",
@@ -189,12 +189,11 @@ details:[
 },
 
 
-
 {
-id:"customized-mugs-cups",
+id:"cup-printing",
 name:"Customized Mugs & Cups",
 category:"Printing Services",
-image:"/images/cup.jpg",
+image:"/images/cup.jpeg",
 
 description:
 "Personalized ceramic mugs and cups with company logo, photos or custom designs.",
@@ -205,132 +204,137 @@ details:[
 "Multiple sizes available",
 "Fast delivery"
 ]
-
 },
 
+{
+    id:"premium-visiting-card",
+    name:"Premium Visiting Cards",
+    category:"Printing Services",
+    image:"/images/cards.jpeg",
 
+    description:
+    "Luxury visiting cards with Gold Foiling, Spot UV, Thermal Lamination, matte or glossy finish for a premium business impression.",  
 
+    details:[
+
+"Premium card material",
+"Creative designs",
+"Multiple finishes available",
+"Fast delivery"
+]
+
+},
+{
+id:"carry-bag",
+name:"Customized Carry Bags & Cloth Bags",
+category:"Printing Services",
+image:"/images/carry-bag.jpeg"
+}
+,
 
 
 // ================= OFFICE =================
 
 
+// ================= OFFICE =================
 
 {
-id:"premium-files-folders",
-name:"Premium Files & Folders",
-category:"Office Stationery",
-image:"/images/office-stationery.jpg",
+  id: "customized-office-files",
+  name: "Customized Office Files",
+  category: "Office Stationery",
+  image: "/images/customize-files.jpg",
 
-description:
-"Professional files and folders for office documentation.",
+  description:
+    "Professional office files customized with company name, logo and branding for corporate requirements.",
 
-details:[
-"Premium material",
-"Corporate designs",
-"Durable quality",
-"Bulk supply available"
-]
+  details: [
+    "Premium quality material",
+    "Company logo and name customization",
+    "Professional corporate designs",
+    "Durable and long-lasting quality",
+    "Multiple sizes available",
+    "Bulk orders accepted"
+  ]
 
 },
 
-
-
 {
-id:"office-registers",
-name:"Office Registers",
-category:"Office Stationery",
-image:"/images/office-stationery.jpg",
+  id: "plastic-folders",
+  name: "Plastic Folders",
+  category: "Office Stationery",
+  image: "/images/Plastic folder .jpeg",
 
-description:
-"High quality registers for offices and businesses.",
+  description:
+    "Durable plastic folders for safe document storage and professional office use.",
 
-details:[
-"Quality paper",
-"Strong binding",
-"Professional use",
-"Bulk availability"
-]
+  details: [
+    "Durable plastic material",
+    "Lightweight and easy to carry",
+    "Protects documents from dust and damage",
+    "Multiple sizes available",
+    "Custom branding available",
+    "Bulk orders accepted"
+  ]
 
 },
 
-
-
 {
-id:"executive-diaries",
-name:"Executive Diaries",
-category:"Office Stationery",
-image:"/images/office-stationery.jpg",
+  id: "jute-folders",
+  name: "Jute Folders",
+  category: "Office Stationery",
+  image: "/images/jute photo .jpeg",
 
-description:
-"Premium diaries for corporate meetings and professionals.",
+  description:
+    "Premium eco-friendly jute folders with customized designs for businesses and corporate gifting.",
 
-details:[
-"Luxury finishing",
-"Professional look",
-"Custom branding",
-"Premium pages"
-]
+  details: [
+    "Premium jute material",
+    "Eco-friendly and reusable",
+    "Custom logo and branding",
+    "Professional natural appearance",
+    "Ideal for corporate gifting",
+    "Bulk orders accepted"
+  ]
 
 },
 
-
-
 {
-id:"pens-writing-supplies",
-name:"Pens & Writing Supplies",
-category:"Office Stationery",
-image:"/images/office-stationery.jpg",
+  id: "paper-folders",
+  name: "Paper Folders",
+  category: "Office Stationery",
+  image: "/images/Paper folder.jpeg",
 
-description:
-"Complete writing stationery solutions for offices.",
+  description:
+    "Quality paper folders for offices, institutions and daily document management.",
 
-details:[
-"Premium pens",
-"Daily office essentials",
-"Bulk orders",
-"Quality products"
-]
+  details: [
+    "Quality paper material",
+    "Custom printing available",
+    "Company logo and branding",
+    "Lightweight and easy to handle",
+    "Multiple sizes available",
+    "Cost-effective solution"
+  ]
 
 },
 
-
-
 {
-id:"office-paper-products",
-name:"Office Paper Products",
-category:"Office Stationery",
-image:"/images/office-stationery.jpg",
+  id: "packing-boxes",
+  name: "Packing Boxes",
+  category: "Office Stationery",
+  image: "/images/Packing-box.jpeg",
 
-description:
-"Quality paper products for daily office requirements.",
+  description:
+    "Durable packing boxes for office and business use, available in various sizes and designs.",
 
-details:[
-"Premium paper quality",
-"Daily office use",
-"Multiple sizes",
-"Bulk supply"
-]
-
-},
-
-
-
-{
-id:"office-accessories",
-name:"Office Accessories",
-category:"Office Stationery",
-image:"/images/office-stationery.jpg",
-
-description:
-"Staplers, folders, clips and other office essentials.",
-
-details:[
-"Premium accessories",
-"Durable products",
-"Complete office solutions",
-"Bulk orders accepted"
-]
+  details: [
+    "Strong and durable construction",
+    "Multiple sizes available",
+    "Custom dimensions available",
+    "Logo and branding customization",
+    "Suitable for product packaging",
+    "Bulk orders accepted"
+  ]
 
 },
 // ================= SCHOOL =================
@@ -546,7 +550,7 @@ details:[
 id:"customized-leather-items",
 name:"Customized Leather Items",
 category:"Leather Products",
-image:"/images/leather.jpg",
+image:"/images/customized-leather.jpg",
 
 description:
 "Custom designed leather products according to business needs.",

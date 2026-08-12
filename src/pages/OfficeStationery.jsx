@@ -12,7 +12,7 @@ const products=[
 {
 id:"customized-office-files",
 name:"Customized Office Files",
-image:"/images/office-stationery.jpg",
+image:"/images/customize-files.jpg",
 desc:"Professional office files customized with company name, logo and branding for corporate requirements."
 },
 

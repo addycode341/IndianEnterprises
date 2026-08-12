@@ -85,27 +85,52 @@ title:"Premium Visiting Cards",
 
 images:[
 
-"/images/visiting-card.jpg",
-"/images/visiting-card2.jpg",
-"/images/visiting-card3.jpg"
+"/images/cards.jpeg",
+"/images/cards2.jpeg",
+"/images/cards3.jpeg",
+"/images/cards4.jpeg",
+"/images/cards5.jpeg",
+"/images/cards6.jpeg",
 
 ]
 
 },
 
 
+// {
+// title:"UV Printing",
+
+// images:[
+
+// "/images/uv-printing.jpg",
+// "/images/uv-printing2.jpg"
+
+// ]
+
+// },
+
+
 {
-title:"UV Printing",
+title:"Customized Mugs & Cups",
 
 images:[
-
-"/images/uv-printing.jpg",
-"/images/uv-printing2.jpg"
-
+"/images/cup.jpeg",
+"/images/cup2.jpeg",
+"/images/cup3.jpeg"
 ]
-
 }
 
+,
+{
+title:"customized pens",
+
+images:[
+"/images/pen.jpeg",
+"/images/pen2.jpeg",
+"/images/pen3.jpeg",
+"/images/pen4.jpeg",
+]
+}
 ],
 
 

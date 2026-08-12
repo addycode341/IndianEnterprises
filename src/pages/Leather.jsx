@@ -43,7 +43,7 @@ desc:"High quality rexine products with customized solutions."
 {
 id:"customized-leather-items",
 name:"Customized Leather Items",
-image:"/images/leather.jpg",
+image:"/images/customized-leather.jpg",
 desc:"Custom designed leather and rexine products according to your needs."
 }
 

@@ -9,35 +9,35 @@ const products = [
   {
     id: "answer-sheet",
     name: "Customized School Answer Sheets",
-    image: "/images/answer-sheet.jpg",
+    image: "/images/answer sheet.png",
     desc: "Custom printed school answer sheets with school logo, barcode, serial numbering and high-quality paper."
   },
 
   {
     id: "catalogue",
     name: "Customized Catalogue Printing",
-    image: "/images/catalogue.jpg",
+    image: "/images/customized-catalogue.png",
     desc: "Premium product catalogues with glossy or matte finish for businesses and brands."
   },
 
   {
     id: "brochure",
     name: "Brochure Printing",
-    image: "/images/brochure.jpg",
+    image: "/images/brochure.png",
     desc: "Professional brochure printing for marketing, events and business promotions."
   },
-
+  
   {
     id: "tri-folder",
     name: "Tri-Fold Brochure",
-    image: "/images/trifold.jpg",
+    image: "/images/tri-folder.png",
     desc: "Premium tri-fold brochures designed for restaurants, companies and promotional campaigns."
   },
 
   {
     id: "price-list",
     name: "Customized Price List",
-    image: "/images/price-list.jpg",
+    image: "/images/pric-list.png",
     desc: "Elegant and easy-to-read customized price lists for restaurants, salons and retail stores."
   },
 
@@ -58,27 +58,27 @@ const products = [
   {
     id: "pen-printing",
     name: "Customized Pens",
-    image: "/images/pen.jpg",
+    image: "/images/pen2.jpeg",
     desc: "Corporate branded pens with custom logo printing for giveaways and marketing."
   },
 
   {
     id: "cup-printing",
     name: "Customized Mugs & Cups",
-    image: "/images/cup.jpg",
+    image: "/images/cup.jpeg",
     desc: "Personalized ceramic mugs and cups with company logo, photos or custom designs."
   },
   {
   id: "carry-bag",
   name: "Customized Carry Bags & Cloth Bags",
-  image: "/images/carry-bag.jpg",
+  image: "/images/carry-bag.jpeg",
   desc: "Premium customized paper carry bags and reusable cloth bags with high-quality logo printing for retail stores, boutiques, exhibitions and promotional branding."
 },
 
 {
   id: "premium-visiting-card",
   name: "Premium Visiting Cards",
-  image: "/images/visiting-card.jpg",
+  image: "/images/cards.jpeg",
   desc: "Luxury visiting cards with Gold Foiling, Spot UV, Thermal Lamination, matte or glossy finish for a premium business impression."
 }
 ];
