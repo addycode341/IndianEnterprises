@@ -20,191 +20,256 @@ behavior:"smooth"
 },[]);
 
 
+const galleries = {
 
-const galleries={
+  // ================= LEATHER =================
 
+  leather: [
 
-leather:[
+    {
+      title: "Executive Leather Bags",
+      images: [
+        "/images/Leather Bag.jpeg"
+      ]
+    },
 
-{
-title:"Executive Leather Bags",
+    {
+      title: "Rexine Products",
+      images: [
+        "/images/rexine1.jpeg",
+        "/images/rexin2.jpeg",
+        "/images/rexine3.jpeg",
+        "/images/rexine4.jpeg",
+        "/images/rexine5.jpeg"
+      ],
+      videos: [
+        "/videos/rexinevideo1.mp4",
+        "/videos/rexinevideo2.mp4",
+        "/videos/rexinevideo3.mp4",
+        "/videos/rexinevideo4.mp4"
+      ]
+    },
 
-images:[
-"/images/Leather Bag.jpeg"
-]
-
-},
-
-
-{
-title:"Rexine Products",
-
-images:[
-
-"/images/rexine1.jpeg",
-"/images/rexin2.jpeg",
-"/images/rexine3.jpeg",
-"/images/rexine4.jpeg",
-"/images/rexine5.jpeg"
-
-],
-
-videos:[
-
-"/videos/rexinevideo1.mp4",
-"/videos/rexinevideo2.mp4",
-"/videos/rexinevideo3.mp4",
-"/videos/rexinevideo4.mp4"
-
-]
-
-},
-
-
-{
-title:"Leather Office Files",
-
-images:[
-
-"/images/Leather files .jpeg",
-"/images/Leather files 2.jpeg",
-"/images/Leather files3.jpeg"
-
-]
-
-}
-
-],
+    {
+      title: "Leather Office Files",
+      images: [
+        "/images/Leather files .jpeg",
+        "/images/Leather files 2.jpeg",
+        "/images/Leather files3.jpeg"
+      ]
+    },
 
 
+    {
+      title: "Customized Leather Items",
+      images: [
+        "/images/customized-leather.jpg"
+      ]
+    }
 
-printing:[
-
-{
-title:"Premium Visiting Cards",
-
-images:[
-
-"/images/cards.jpeg",
-"/images/cards2.jpeg",
-"/images/cards3.jpeg",
-"/images/cards4.jpeg",
-"/images/cards5.jpeg",
-"/images/cards6.jpeg",
-
-]
-
-},
+  ],
 
 
-// {
-// title:"UV Printing",
+  // ================= PRINTING =================
 
-// images:[
+  printing: [
 
-// "/images/uv-printing.jpg",
-// "/images/uv-printing2.jpg"
+    {
+      title: "Customized School Answer Sheets",
+      images: [
+        "/images/answer sheet.png"
+      ]
+    },
 
-// ]
+    {
+      title: "Customized Catalogue Printing",
+      images: [
+        "/images/customized-catalogue.png"
+      ]
+    },
 
-// },
+    {
+      title: "Brochure Printing",
+      images: [
+        "/images/brochure.png"
+      ]
+    },
+
+    {
+      title: "Tri-Fold Brochure",
+      images: [
+        "/images/tri-folder.png"
+      ]
+    },
+
+    {
+      title: "Customized Price List",
+      images: [
+        "/images/pric-list.png"
+      ]
+    },
+
+    {
+      title: "Customized T-Shirts",
+      images: [
+        "/images/printing t-shirt.jpeg"
+      ]
+    },
+
+    {
+      title: "Customized Caps",
+      images: [
+        "/images/printing t-shirtcap.jpeg"
+      ]
+    },
+
+    {
+      title: "Customized Pens",
+      images: [
+        "/images/pen.jpeg",
+        "/images/pen2.jpeg",
+        "/images/pen3.jpeg",
+        "/images/pen4.jpeg"
+      ]
+    },
+
+    {
+      title: "Customized Mugs & Cups",
+      images: [
+        "/images/cup.jpeg",
+        "/images/cup2.jpeg",
+        "/images/cup3.jpeg"
+      ]
+    },
+
+    {
+      title: "Premium Visiting Cards",
+      images: [
+        "/images/cards.jpeg",
+        "/images/cards2.jpeg",
+        "/images/cards3.jpeg",
+        "/images/cards4.jpeg",
+        "/images/cards5.jpeg",
+        "/images/cards6.jpeg"
+      ]
+    },
+
+    {
+      title: "Customized Carry Bags & Cloth Bags",
+      images: [
+        "/images/carry-bag.jpeg"
+      ]
+    }
+
+  ],
 
 
-{
-title:"Customized Mugs & Cups",
+  // ================= SCHOOL =================
 
-images:[
-"/images/cup.jpeg",
-"/images/cup2.jpeg",
-"/images/cup3.jpeg"
-]
-}
+  school: [
 
-,
-{
-title:"customized pens",
+    {
+      title: "School Notebooks",
+      images: [
+        "/images/School sationary .jpeg",
+        "/images/School sationary 2.jpeg",
+        "/images/School sationary3.jpeg",
+        "/images/School sationary4.jpeg"
+      ]
+    },
 
-images:[
-"/images/pen.jpeg",
-"/images/pen2.jpeg",
-"/images/pen3.jpeg",
-"/images/pen4.jpeg",
-]
-}
-],
-
-
-
-school:[
-
-{
-title:"School Stationery",
-
-images:[
-
-"/images/School sationary .jpeg",
-"/images/School sationary 2.jpeg",
-"/images/School sationary3.jpeg",
-"/images/School sationary4.jpeg",
-"/images/School-stationary .jpeg",
-"/images/Pastel sheet .jpeg",
-"/images/Pastel sheet2.jpeg",
-"/images/Pastel sheet3.jpeg",
-"/images/Pastel sheet4.jpeg",
-"/images/Pastel sheet5.jpeg",
-"/images/Pastel sheet6.jpeg",
-"/images/Color.jpeg",
-"/images/Color 2.jpeg",
-"/images/Color3.jpeg",
-"/images/Color4.jpeg",
-"/images/Color5.jpeg",
-"/images/Color6.jpeg",
-"/images/Color7.jpeg",
-"/images/Color8.jpeg",
-"/images/Color9.jpeg",
-"/images/Color10.jpeg",
-"/images/Color11.jpeg",
-"/images/Color12.jpeg",
-"/images/Color13.jpeg",
-"/images/Color14.jpeg",
-"/images/Color15.jpeg"
-
-]
-
-}
-
-],
+    {
+      title: "Pastel Sheet",
+      images: [
+        "/images/Pastel sheet .jpeg",
+        "/images/Pastel sheet2.jpeg",
+        "/images/Pastel sheet3.jpeg",
+        "/images/Pastel sheet4.jpeg",
+        "/images/Pastel sheet5.jpeg",
+        "/images/Pastel sheet6.jpeg"
+      ]
+    },
 
 
+    {
+      title: "Colors",
+      images: [
+        "/images/Color.jpeg",
+        "/images/Color 2.jpeg",
+        "/images/Color3.jpeg",
+        "/images/Color4.jpeg",
+        "/images/Color5.jpeg",
+        "/images/Color6.jpeg",
+        "/images/Color7.jpeg",
+        "/images/Color8.jpeg",
+        "/images/Color9.jpeg",
+        "/images/Color10.jpeg",
+        "/images/Color11.jpeg",
+        "/images/Color12.jpeg",
+        "/images/Color13.jpeg",
+        "/images/Color14.jpeg",
+        "/images/Color15.jpeg"
+      ]
+    },
 
-office:[
+    {
+      title: "All Types Of School Stationery",
+      images: [
+        "/images/School-stationary .jpeg"
+      ]
+    }
 
-{
-title:"Office Stationery",
+  ],
 
-images:[
 
-"/images/office sattionary .jpeg",
-"/images/Plastic folder .jpeg",
-"/images/jute photo .jpeg",
-"/images/Jute 2.jpeg",
-"/images/Jute3.jpeg",
-"/images/Jute4.jpeg",
-"/images/Jute5.jpeg",
-"/images/Paper folder.jpeg",
-"/images/Paper folder2.jpeg",
-"/images/Paper folder3.jpeg",
-"/images/Packing-box.jpeg"
+  // ================= OFFICE =================
 
-]
+  office: [
 
-}
+    {
+      title: "Customized Office Files",
+      images: [
+        "/images/customize-files.jpg"
+      ]
+    },
 
-]
+    {
+      title: "Plastic Folders",
+      images: [
+        "/images/Plastic folder .jpeg"
+      ]
+    },
 
+    {
+      title: "Jute Folders",
+      images: [
+        "/images/jute photo .jpeg",
+        "/images/Jute 2.jpeg",
+        "/images/Jute3.jpeg",
+        "/images/Jute4.jpeg",
+        "/images/Jute5.jpeg"
+      ]
+    },
+
+    {
+      title: "Paper Folders",
+      images: [
+        "/images/Paper folder.jpeg",
+        "/images/Paper folder2.jpeg",
+        "/images/Paper folder3.jpeg"
+      ]
+    },
+
+    {
+      title: "Packing Boxes",
+      images: [
+        "/images/Packing-box.jpeg"
+      ]
+    }
+
+  ]
 
 };
-
 
 
 const products=galleries[category] || [];
